@@ -9,10 +9,9 @@ A simple and litle jQuery library to control fullscreen and navegation menu
 Options:
 ----------------------------
 
-- Atalho Para o Menu Principal
-- Atalho Para Campo de Busca
-- Atalho Para o Conteúdo Central
-- Ativar/Desativar o Alto Contraste
+- TARGET A ELEMENT TO CONTROLL SCROLL
+- SIMPLE WAY TO NAVEGATE MENU ON PAGE
+- CHANGE THE COLOR OFF MENU
 
 How to use:
 ----------------------------
